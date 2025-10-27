@@ -1,5 +1,21 @@
-## bostonhousepricing
+# Boston House Pricing Prediction
 
+**Author:** Shivam Shende  
+**Role:** Data Analyst | SQL · Python · Power BI · ML  
+**Tools:** Python, Flask, Scikit-Learn, Pandas, Matplotlib
+
+---
+
+## 📘 Project Overview
+A Machine Learning web app predicting housing prices using Linear Regression on the Boston Housing dataset.
+
+---
+
+## ⚙️ Tech Stack
+- Python (pandas, numpy, scikit-learn)
+- Flask (for web app)
+- HTML templates
+- Pickle (for model serialization)
 ## Software and Tools Requirments
 
 1. [Github Account](https://github.com)
